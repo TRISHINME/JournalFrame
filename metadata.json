@@ -1,8 +1,0 @@
-{
-  "name": "Personal Gemini Journal",
-  "description": "A security-first AI journaling assistant powered by Gemini 3.5 Flash with cognitive bias detection, sentiment analysis, and tenant-isolated Firestore storage.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
