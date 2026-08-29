@@ -298,36 +298,6 @@ Building JournalFrame AI provided practical experience across the full lifecycle
 
 ---
 
-## 🗂️ Project Structure
-
-```text
-JournalFrame-AI/
-│
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── ...
-│   └── ...
-│
-├── server/
-│   ├── routes/
-│   ├── services/
-│   ├── middleware/
-│   └── ...
-│
-├── Dockerfile
-├── cloudbuild.yaml
-├── package.json
-├── .gcloudignore
-└── README.md
-```
-
-> Adjust the structure above to match the actual repository layout.
-
----
-
 ## 🧪 Development
 
 ### Prerequisites
